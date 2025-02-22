@@ -1,48 +1,64 @@
-# Astro Starter Kit: Basics
+# 🚗 Tesla Clone
 
-```sh
-npm create astro@latest -- --template basics
-```
+This is a clone of the Tesla website, built with **Astro** and styled with **TailwindCSS**. The goal of this project is to practice developing modern and optimized web interfaces.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## 🛠️ Technologies Used
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- [Astro](https://astro.build/) - Framework for generating fast and optimized websites.
+- [TailwindCSS](https://tailwindcss.com/) - Styling framework for quick and efficient layout.
+- [Vite](https://vitejs.dev/) - Fast development tool.
+- [Prettier](https://prettier.io/) - Code formatter.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## 📂 Installation and Setup
 
-## 🚀 Project Structure
+1. **Clone the repository:**
 
-Inside of your Astro project, you'll see the following folders and files:
+   ```bash
+   git clone https://github.com/yourusername/tesla-clone.git
+   cd tesla-clone
+   ```
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+2. **Install dependencies:**
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+   ```bash
+   npm install
+   ```
 
-## 🧞 Commands
+3. **Run the development environment:**
 
-All commands are run from the root of the project, from a terminal:
+   ```bash
+   npm run dev
+   ```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+4. **Build the project for production:**
 
-## 👀 Want to learn more?
+   ```bash
+   npm run build
+   ```
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+5. **Preview the built site:**
+
+   ```bash
+   npm run preview
+   ```
+
+## 🌟 Project Features
+
+✅ Responsive design inspired by Tesla.\
+✅ Optimized components using Astro.\
+✅ Efficient styling with TailwindCSS.\
+✅ Clean and formatted code with Prettier.
+
+## 🚀 Contributions
+
+If you want to improve the project, contributions are welcome! Simply fork the repository, create a new branch with your changes, and submit a pull request.
+
+## 📜 License
+
+This project is for educational purposes only and is not affiliated with Tesla. You are free to modify and use it as you wish.
+
+---
+
+🔗 **Author:** [Your Name](https://github.com/yourusername)
+
+Brandon Vera
