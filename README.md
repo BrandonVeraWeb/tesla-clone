@@ -1,5 +1,5 @@
 # 🚗 Tesla Clone
-
+Deployed: https://tesla-clone-roan-gamma.vercel.app/
 This is a clone of the Tesla website, built with **Astro** and styled with **TailwindCSS**. The goal of this project is to practice developing modern and optimized web interfaces.
 
 ## 🛠️ Technologies Used
